@@ -1,0 +1,34 @@
+@font-face {
+    font-family: PressStart2P;
+    src: url(font/PressStart2P-Regular.ttf);
+}
+
+body {
+    color: white;
+    background-color: #6396E7;
+    font-family: PressStart2P;
+    font-size: larger;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.center p {
+    text-align: center;
+}
+
+a {
+    color: crimson;
+}
+
+a:hover {
+    color: pink;
+}
+
+a:active {
+    color: black;
+}
